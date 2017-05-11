@@ -1,5 +1,5 @@
 ---
-url: "http://petstore.swagger.io/v2/swagger.json"
+url: "http://apidocs.parasut.com/v4/definitions/v4.yaml"
 dom_id: "#swagger-ui"
 validatorUrl: "https://online.swagger.io/validator"
-oauth2RedirectUrl: "http://localhost:3200/oauth2-redirect.html"
+oauth2RedirectUrl: "http://apidocs.parasut.com/v4/oauth2-redirect.html"
